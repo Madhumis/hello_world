@@ -1,0 +1,8 @@
+# hello_world
+myFirst
+public class HelloWorld {
+public static void main(String[] args) {
+System.out.println("Hello World!");
+//prints hello world
+}
+}
